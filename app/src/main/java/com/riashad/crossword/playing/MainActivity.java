@@ -3,6 +3,9 @@ package com.riashad.crossword.playing;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * Riashad Noor
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
